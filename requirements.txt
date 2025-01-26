@@ -1,0 +1,11 @@
+langgraph
+langgraph-sdk
+langsmith
+langchain-community
+langchain-core
+notebook
+tavily-python
+langgraph-cli
+langchain-groq
+streamlit>=1.35.0
+pygments>=2.17.2
