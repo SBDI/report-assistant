@@ -9,5 +9,5 @@ __pycache__/
 *.xlt
 *.xlsx 
 *.pdf
-report_example/
-langgraph_api/
+report_examples/
+.langgraph_api/
